@@ -1,0 +1,33 @@
+.box{
+    width: 35px;
+    height: 0px;
+    margin-left: 50px;
+    margin-top: 440px
+}
+    
+
+input{
+    height: 25px ;
+    width: 300px;
+    border: 0cap;
+    background color: ;
+    border-top: none;
+    border left: none;
+    border bottom: none;
+    border right:none;
+    margin top: 40px;
+    margin left: 50px;
+    outline: none;
+    font size:20px;
+    cursor: pointer;
+}
+input placeholder{
+    color: rgb(145, 145, 145);
+    font size: 16px;
+}
+
+border-bottom: 2px solid rgb(0, 110, 255);
+
+input:focus::placeholder {
+    color: rgb(0, 110, 255);
+}
